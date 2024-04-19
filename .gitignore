@@ -1,0 +1,14 @@
+**bin/
+**include/
+**lib/
+**lib64
+pyvenv.cfg
+**__init__.py
+**migrations/
+**tests.py
+**__pycache__/
+**wsgi.py
+**manage.py
+**asgi.py
+**db.sqlite3
+**media/
