@@ -1,6 +1,6 @@
 #!/bin/bash
 user=$(whoami)
-projectName="djBlog"
+projectName="djangoBlog"
 python -m venv ../$projectName
 source bin/activate
 pip install django
