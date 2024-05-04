@@ -12,3 +12,4 @@ pyvenv.cfg
 **asgi.py
 **db.sqlite3
 **media/
+**admin/
